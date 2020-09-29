@@ -46,7 +46,7 @@ class Quotes extends React.Component {
 }
 
 const containerStyles = {
-    width: "80%",
+    width: "80%", 
     display: "flex",
     flexWrap: "wrap",
     flexDirection: "column",
